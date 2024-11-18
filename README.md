@@ -2,7 +2,7 @@
 
 🚀 Android Developer | Kotlin Enthusiast | Jetpack Compose Advocate
 
-🚀 About Me
+🚀 About Me \n
 💻 I’m currently working at [**Workllma**](https://www.workllma.com) as a **Software Engineer**.
 
 
