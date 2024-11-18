@@ -3,6 +3,9 @@
 🚀 Android Developer | Kotlin Enthusiast | Jetpack Compose Advocate
 
 🚀 About Me
+💻 I’m currently working at [**Workllma**](https://www.workllma.com) as a **Software Engineer**.
+
+
 I’m a passionate Android Developer with over 8 years of experience, specializing in creating efficient, scalable, and feature-rich applications. With my expertise in Kotlin and Jetpack Compose, I craft scalable, performant, and user-friendly mobile applications. I thrive on solving complex challenges and building seamless experiences.
 
 
