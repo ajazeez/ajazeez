@@ -2,7 +2,9 @@
 
 🚀 Android Developer | Kotlin Enthusiast | Jetpack Compose Advocate
 
-Welcome to my GitHub profile! With over 8 years of experience in Android development and 2 years specializing in Jetpack Compose, I craft scalable, performant, and user-friendly mobile applications. I thrive on solving complex challenges and building seamless experiences.
+🚀 About Me
+I’m a passionate Android Developer with over 8 years of experience, specializing in creating efficient, scalable, and feature-rich applications. With my expertise in Kotlin and Jetpack Compose, I craft scalable, performant, and user-friendly mobile applications. I thrive on solving complex challenges and building seamless experiences.
+
 
 🔧 Technologies & Tools
 Languages & Frameworks:
@@ -17,6 +19,10 @@ Architecture:
 MVVM | Clean Architecture | Dependency Injection (Hilt/Dagger)
 
 🌟 Highlights
-🔧 Integrated BLE devices for real-time data synchronization in healthcare applications.
-📱 Developed modern, responsive UIs with Jetpack Compose.
-🎯 Passionate about writing clean, maintainable, and scalable code.
+📱 Healthcare Innovations: Integrated BLE devices for real-time monitoring, improving patient care outcomes.
+🚀 Modern UIs: Delivered responsive, dynamic user interfaces using Jetpack Compose.
+🛠 Code Quality: Advocated clean architecture for maintainable and scalable apps.
+
+
+💬 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> </p>
