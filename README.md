@@ -17,9 +17,8 @@
 
 
 
-- 🔧 Technologies & Tools
-Languages & Frameworks:
-Kotlin (primary) | Java | Jetpack Compose | XML | Android SDK | Coroutines | LiveData | ViewModel
+- 🔧 Languages & Frameworks:
+  Kotlin | Java | Jetpack Compose | XML | Android SDK | Coroutines | LiveData | ViewModel
 
 
 - 📫 How to reach me **ajmalazeez.dev@gmail.com**
