@@ -25,4 +25,4 @@ MVVM | Clean Architecture | Dependency Injection (Hilt/Dagger)
 
 
 💬 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> </p>
+<p align="center"> <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:ajmalazeez.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
